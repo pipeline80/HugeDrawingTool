@@ -1,0 +1,9 @@
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\bin\Release\netstandard2.0\HugeDrawingTool.deps.json
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\bin\Release\netstandard2.0\HugeDrawingTool.dll
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\bin\Release\netstandard2.0\HugeDrawingTool.pdb
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\obj\Release\netstandard2.0\HugeDrawingTool.csproj.CoreCompileInputs.cache
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\obj\Release\netstandard2.0\HugeDrawingTool.AssemblyInfoInputs.cache
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\obj\Release\netstandard2.0\HugeDrawingTool.AssemblyInfo.cs
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\obj\Release\netstandard2.0\HugeDrawingTool.dll
+c:\users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\obj\Release\netstandard2.0\HugeDrawingTool.pdb
+C:\Users\felgrana\source\repos\HugeDrawingTool\HugeDrawingTool\obj\Release\netstandard2.0\HugeDrawingTool.csprojResolveAssemblyReference.cache
