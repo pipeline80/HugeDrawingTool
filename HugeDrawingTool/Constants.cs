@@ -5,31 +5,31 @@
         /// <summary>
         /// Default line chart
         /// </summary>
-        public const string LineChar = "x";
+        public const string LINECHAR = "x";
         /// <summary>
         /// Default Canvas top chart
         /// </summary>
-        public const string CanvasTopChar = "-";
+        public const string CANVASTOPCHAR = "-";
         /// <summary>
         /// Default Canvas side chart
         /// </summary>
-        public const string CanvasSideChar = "|";
+        public const string CANVASSIDECHAR = "|";
         /// <summary>
         /// Default Canvas space chart
         /// </summary>
-        public const string CanvasSpaceChar = " ";
+        public const string CANVASSPACECHAR = " ";
         /// <summary>
         /// Directory for file input and output
         /// </summary>
-        public const string FileDirectory = "C:/";
+        public const string FILEDIRECTORY = "C:/";
         /// <summary>
         /// Directory for file input and output
         /// </summary>
-        public const string ImputFilename = @"C:\HugeDrawingTool\Files\input.txt";
+        public const string IMPUTFILENAME = @"C:\HugeDrawingTool\Files\input.txt";
         /// <summary>
         /// Directory for file input and output
         /// </summary>
-        public const string OutputFilename = @"C:\HugeDrawingTool\Files\output.txt";
+        public const string OUTPUTFILENAME = @"C:\HugeDrawingTool\Files\output.txt";
 
     }
 }
