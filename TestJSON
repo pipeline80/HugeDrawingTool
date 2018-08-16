@@ -1,0 +1,100 @@
+{
+	"columns": ["ProductID", "ProductName", "UnitsInStock", "UnitPriceTax", "OrderDate", "Discontinued"],
+	"data": [{
+		"ProductID": 1,
+		"ProductName": "Chai",
+		"UnitPrice": 18,
+		"UnitPriceTax": 180,
+		"UnitsInStock": 39,
+		"Discontinued": false,
+		"OrderDate": "1996-07-03T21:00:00.000Z"
+	}, {
+		"ProductID": 2,
+		"ProductName": "Chang",
+		"UnitPrice": 19,
+		"UnitPriceTax": 190,
+		"UnitsInStock": 17,
+		"Discontinued": false,
+		"OrderDate": "1996-07-04T21:00:00.000Z"
+	}, {
+		"ProductID": 3,
+		"ProductName": "Aniseed Syrup",
+		"UnitPrice": 10,
+		"UnitPriceTax": 100,
+		"UnitsInStock": 13,
+		"Discontinued": false,
+		"OrderDate": "1996-07-01T21:00:00.000Z"
+	}, {
+		"ProductID": 4,
+		"ProductName": "Chef Anton's Cajun Seasoning",
+		"UnitPrice": 22,
+		"UnitPriceTax": 220,
+		"UnitsInStock": 53,
+		"Discontinued": false,
+		"OrderDate": "1996-07-01T21:00:00.000Z"
+	}, {
+		"ProductID": 5,
+		"ProductName": "Chef Anton's Gumbo Mix",
+		"UnitPrice": 21.35,
+		"UnitPriceTax": 210.35,
+		"UnitsInStock": 0,
+		"Discontinued": true,
+		"OrderDate": "1996-07-10T21:00:00.000Z"
+	}, {
+		"ProductID": 6,
+		"ProductName": "Grandma's Boysenberry Spread",
+		"UnitPrice": 25,
+		"UnitPriceTax": 250,
+		"UnitsInStock": 120,
+		"Discontinued": false,
+		"OrderDate": "1996-07-07T21:00:00.000Z"
+	}, {
+		"ProductID": 7,
+		"ProductName": "Uncle Bob's Organic Dried Pears",
+		"UnitPrice": 30,
+		"UnitPriceTax": 300,
+		"UnitsInStock": 15,
+		"Discontinued": false,
+		"OrderDate": "1996-07-08T21:00:00.000Z"
+	}, {
+		"ProductID": 8,
+		"ProductName": "Northwoods Cranberry Sauce",
+		"UnitPrice": 40,
+		"UnitPriceTax": 400,
+		"UnitsInStock": 6,
+		"Discontinued": false,
+		"OrderDate": "1996-07-08T21:00:00.000Z"
+	}, {
+		"ProductID": 9,
+		"ProductName": "Mishi Kobe Niku",
+		"UnitPrice": 97,
+		"UnitPriceTax": 970,
+		"UnitsInStock": 29,
+		"Discontinued": true,
+		"OrderDate": "1996-07-08T21:00:00.000Z"
+	}, {
+		"ProductID": 10,
+		"ProductName": "Ikura",
+		"UnitPrice": 31,
+		"UnitPriceTax": 310,
+		"UnitsInStock": 31,
+		"Discontinued": false,
+		"OrderDate": "1996-07-18T21:00:00.000Z"
+	}, {
+		"ProductID": 11,
+		"ProductName": "Queso Cabrales",
+		"UnitPrice": 21,
+		"UnitPriceTax": 210,
+		"UnitsInStock": 22,
+		"Discontinued": false,
+		"OrderDate": "1996-07-12T21:00:00.000Z"
+	}, {
+		"ProductID": 12,
+		"ProductName": "Queso Manchego La Pastora",
+		"UnitPrice": 38,
+		"UnitPriceTax": 360,
+		"UnitsInStock": 86,
+		"Discontinued": false,
+		"OrderDate": "1996-07-24T21:00:00.000Z"
+	}]
+}
